@@ -30,3 +30,11 @@ Things you may want to cover:
 - rake db:migrate
 
 - rails g controller home
+
+- rails g migration add_name_to_users name:string
+
+- rails g devise:controllers users
+
+- rails g devise:views users
+
+- rake db:migrate
